@@ -36,4 +36,4 @@ This project is just for recreational use
 (mj@gmail.com)
 
 
-[Try it](https://mi6gy.github.io/nj-trivia/ "HERE").
+[Try it](https://mi6gy.github.io/TRIVIA/"HERE").
